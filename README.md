@@ -37,7 +37,7 @@ I'm a Software Engineer 👩🏻‍💻
 </td><td valign="top" width="40%">
 
 <div align="center">
-<!-- <img autoplay="true" src="https://images.squarespace-cdn.com/content/v1/5515ce85e4b0ac8577a8b5ed/1590790768257-FU8CSKGCCWPZI1ZS9HJX/hello.gif?format=1500w" align="center" style="width: 100%" /> -->
+<img autoplay="true" src="https://images.squarespace-cdn.com/content/v1/5515ce85e4b0ac8577a8b5ed/1590790768257-FU8CSKGCCWPZI1ZS9HJX/hello.gif?format=1500w" align="center" style="width: 100%" />
 </div>  
 
 
