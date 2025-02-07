@@ -71,7 +71,7 @@ I'm a Software Engineer 👩🏻‍💻
 <br/>  
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="center" style="width: 100%">
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=DevalKarena&&style=flat-square)  
 
