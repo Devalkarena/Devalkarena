@@ -57,18 +57,21 @@ I'm a Software Engineer 👩🏻‍💻
 ## 📊 GitHub Stats:
 <table >
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=RuchiDhamecha&theme=dark&show_icons=true&count_private=true&hide_border=false" align="center" style="width: 100%" />
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Devalkarena&theme=dark&hide_border=false&include_all_commits=false&count_private=false" align="center" style="width: 100%" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuchiDhamecha&theme=dark&show_icons=true&count_private=true" align="center" style="width: 100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devalkarena&theme=dark&hide_border=false" align="center" style="width: 100%" />
     </td>
   </tr>
   <tr><td >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiDhamecha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width:100%; heigth:30%" ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devalkarena&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width:100%; heigth:30%" ">
   </td></tr>
 </table>  
 
 <br/>  
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=DevalKarena&&style=flat-square)  
 
